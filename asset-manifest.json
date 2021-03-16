@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/The-Fighters-Lab/static/css/main.0f6ac0f6.chunk.css",
+    "main.js": "/The-Fighters-Lab/static/js/main.626008f6.chunk.js",
+    "main.js.map": "/The-Fighters-Lab/static/js/main.626008f6.chunk.js.map",
+    "runtime-main.js": "/The-Fighters-Lab/static/js/runtime-main.dc6ee301.js",
+    "runtime-main.js.map": "/The-Fighters-Lab/static/js/runtime-main.dc6ee301.js.map",
+    "static/css/2.ac82d1d8.chunk.css": "/The-Fighters-Lab/static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.febd7e3e.chunk.js": "/The-Fighters-Lab/static/js/2.febd7e3e.chunk.js",
+    "static/js/2.febd7e3e.chunk.js.map": "/The-Fighters-Lab/static/js/2.febd7e3e.chunk.js.map",
+    "static/js/3.38795740.chunk.js": "/The-Fighters-Lab/static/js/3.38795740.chunk.js",
+    "static/js/3.38795740.chunk.js.map": "/The-Fighters-Lab/static/js/3.38795740.chunk.js.map",
+    "index.html": "/The-Fighters-Lab/index.html",
+    "static/css/2.ac82d1d8.chunk.css.map": "/The-Fighters-Lab/static/css/2.ac82d1d8.chunk.css.map",
+    "static/css/main.0f6ac0f6.chunk.css.map": "/The-Fighters-Lab/static/css/main.0f6ac0f6.chunk.css.map",
+    "static/js/2.febd7e3e.chunk.js.LICENSE.txt": "/The-Fighters-Lab/static/js/2.febd7e3e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc6ee301.js",
+    "static/css/2.ac82d1d8.chunk.css",
+    "static/js/2.febd7e3e.chunk.js",
+    "static/css/main.0f6ac0f6.chunk.css",
+    "static/js/main.626008f6.chunk.js"
+  ]
+}
